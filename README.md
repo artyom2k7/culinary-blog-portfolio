@@ -1,15 +1,15 @@
-# Interactive Survey Form Component
+# Chef Personal Blog & Culinary Portal
 
-A modern, visually polished web survey designed to collect user and contact information. Features custom interactive input animations and strict CSS layout structures.
+A semantic, responsive, and visually polished culinary landing page designed as a personal blog for a professional chef. Features structural categorization and independent grid-pattern layouts.
 
 ## Technologies Used
-- **HTML5**: Semantic forms, advanced inputs (`date`, `number`, `email`), fieldsets, and legends.
-- **CSS3**: Layout design, custom placeholders, hover effects, fixed positioning for layout elements, and state-driven animations (`:focus`, `:not(:placeholder-shown)`).
+- **HTML5**: Structural semantic elements (`<header>`, `<main>`, `<article>`, `<section>`, `<aside>`), custom web-font bindings, unordered navigation lists, and absolute links.
+- **CSS3**: Explicit float alignments (`float: left`, `float: right`), clearfix implementations via pseudo-elements (`::after`), multi-directional gradient backdrops (`linear-gradient`), absolute positioning mechanics, shadow filtering (`box-shadow`), and dynamic asset transformations (`transform: rotate`).
 
 ## Key Features
-- **Floating Labels**: Labels dynamically slide up and scale down when input fields are focused or contain text.
-- **Interactive UI**: Custom hover states for buttons and clean validation-ready layout.
-- **Clean Structure**: Well-organized directory paths (`css/`, `img/`) following industrial best practices.
+- **Asymmetric Block Architecture**: Implements an interactive multi-column display splitting user profile structures and secondary recipe widgets using clear layout boundaries.
+- **Dynamic Geometric Patterns**: Background rendering via complex overlapping native CSS linear-gradients mimicking industrial grid textures.
+- **Clean Structure**: Rooted project configuration and strict component isolation following enterprise layout workflows.
 
 ## Author
 - GitHub: @artyom2k7
