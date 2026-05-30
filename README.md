@@ -1,5 +1,7 @@
 # Chef Personal Blog & Culinary Portal
 
+> **Note:** This project is designed as a desktop-only layout (`Desktop-only`) to practice and master structural semantic layouts, explicit float alignments with clearfixes, and dynamic CSS geometric patterns.
+
 A semantic, responsive, and visually polished culinary landing page designed as a personal blog for a professional chef. Features structural categorization and independent grid-pattern layouts.
 
 ## Technologies Used
